@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Nazmul Hosen",
+    "address": "Sherpur"
+  },
+  {
+    "id": 2,
+    "name": "Leyon Rayhan",
+    "address": "Nakla"
+  },
+  {
+    "id": 3,
+    "name": "Mahbub Rayan",
+    "address": "Mymensingh"
+  },
+  {
+    "id": 4,
+    "name": "Mahmudul Russel",
+    "address": "Fulpur"
+  }
+]
